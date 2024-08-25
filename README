@@ -1,0 +1,5 @@
+# OrangeHRM Portal Login and PIM Module Automation
+
+## Description
+
+This project automates the login process and Personal Information Management (PIM) module of the OrangeHRM portal. The automation scripts cover both positive and negative test scenarios to ensure the login functionality and personal employee information management features.
